@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9d5ab94-b517-4675-9336-6a03cb13572e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/DigiBAmvGitTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DigiBAmvGitTest.iml" afterDir="false" />
+    <list default="true" id="b9d5ab94-b517-4675-9336-6a03cb13572e" name="Changes" comment="Wijziging naar naam John">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -40,6 +39,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
@@ -48,7 +48,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -91,12 +91,27 @@
       <option name="presentableId" value="Default" />
       <updated>1728544848602</updated>
       <workItem from="1728544850642" duration="1594000" />
-      <workItem from="1728633887024" duration="8312000" />
+      <workItem from="1728633887024" duration="10930000" />
+      <workItem from="1728910252988" duration="2869000" />
+      <workItem from="1729067487718" duration="8709000" />
     </task>
+    <task id="LOCAL-00001" summary="Wijziging naar naam John">
+      <option name="closed" value="true" />
+      <created>1728653086463</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728653086463</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Wijziging naar naam John" />
+    <option name="LAST_COMMIT_MESSAGE" value="Wijziging naar naam John" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
